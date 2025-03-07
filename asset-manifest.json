@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mortgage-Calculator-with-Redux-Typescript/static/css/main.c14fcde9.css",
-    "main.js": "/Mortgage-Calculator-with-Redux-Typescript/static/js/main.56d46876.js",
+    "main.css": "/Mortgage-Calculator-with-Redux-Typescript/static/css/main.4e938014.css",
+    "main.js": "/Mortgage-Calculator-with-Redux-Typescript/static/js/main.187ab6d1.js",
     "static/js/453.3497cf11.chunk.js": "/Mortgage-Calculator-with-Redux-Typescript/static/js/453.3497cf11.chunk.js",
     "index.html": "/Mortgage-Calculator-with-Redux-Typescript/index.html",
-    "main.c14fcde9.css.map": "/Mortgage-Calculator-with-Redux-Typescript/static/css/main.c14fcde9.css.map",
-    "main.56d46876.js.map": "/Mortgage-Calculator-with-Redux-Typescript/static/js/main.56d46876.js.map",
+    "main.4e938014.css.map": "/Mortgage-Calculator-with-Redux-Typescript/static/css/main.4e938014.css.map",
+    "main.187ab6d1.js.map": "/Mortgage-Calculator-with-Redux-Typescript/static/js/main.187ab6d1.js.map",
     "453.3497cf11.chunk.js.map": "/Mortgage-Calculator-with-Redux-Typescript/static/js/453.3497cf11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c14fcde9.css",
-    "static/js/main.56d46876.js"
+    "static/css/main.4e938014.css",
+    "static/js/main.187ab6d1.js"
   ]
 }
