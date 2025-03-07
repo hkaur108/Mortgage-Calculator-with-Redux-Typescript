@@ -105,7 +105,7 @@ export default function MortgageForm() {
             <Form.Control.Feedback type="invalid">This field is required</Form.Control.Feedback>
           </Form.Group>
         </Row>
-        <Button className='mortgage-button fw-bold mt-3' onClick={handleSubmit} ><img src="/assets/images/icon-calculator.svg" alt='calculator SVG' /> Calculate Mortgage</Button>
+        <Button className='mortgage-button fw-bold mt-3' onClick={handleSubmit} > <img src= {process.env.PUBLIC_URL+"/assets/images/icon-calculator.svg"} alt='calculator SVG' /> Calculate Mortgage</Button>
       </Form>
     </Container>
   )

@@ -5,9 +5,9 @@ export default function FinalResults() {
     const info =useAppSelector(mortgageSelector);
     const {repaymentAmount, totalInterest,monthlyPayments, type}=info;  
     return (
-    <aside className="mt-3" aria-label="final values">
+    <aside className="mt-3 result-cont" aria-label="final values">
         <header>
-            <p className='text-light fw-bold'>Your results</p>
+            <p className='text-light fw-bold result-heading'>Your results</p>
             <p>Your results are shown below based on the information you provided. To adjust the result. edit the form and click "calculate repayments" again.</p>
         </header>
         <article className="py-3 px-4 my-3 finalRepayment">
